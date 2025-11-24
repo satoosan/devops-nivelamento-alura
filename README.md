@@ -15,7 +15,7 @@
 - DevOps: explorando conceitos, comandos e scripts no Linux CLI
 
 Projetos:
-[Jogo do Número Secreto]()
+[Jogo do Número Secreto](https://github.com/satoosan/devops-nivelamento-alura/tree/main/numeroSecretoSemana1)
 
 
 Certificados: 
