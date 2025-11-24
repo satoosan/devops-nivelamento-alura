@@ -1,4 +1,4 @@
-## DevOps: Administração, operação e monitoramento de sistemas - Nivelamento
+## DevOps - Nivelamento
 
 ### Cursos:
 
