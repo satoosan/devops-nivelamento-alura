@@ -18,4 +18,4 @@ Projetos:
 [Jogo do Número Secreto](https://github.com/satoosan/devops-nivelamento-alura/tree/main/numeroSecretoSemana1)
 
 
-Certificados: 
+[Certificados](https://github.com/satoosan/devops-nivelamento-alura/tree/main/certificados) 
